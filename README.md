@@ -7,7 +7,7 @@ algorithms (such as search and merge algorithms) that require input data to be i
 ## Description
 The repo contains implementation for below sorting algorithms:
 
-** Comparision Sorting Algos ** : A comparison sort is a type of sorting algorithm that only reads the list elements through a single abstract comparison operation 
+**Comparision Sorting Algos** : A comparison sort is a type of sorting algorithm that only reads the list elements through a single abstract comparison operation 
 (often a "less than or equal to" operator or a three-way comparison) that determines which of two elements should occur first in the final sorted list. The Time complexity 
 that can be best achived is **O(n log n)** .<br>
 
@@ -17,7 +17,7 @@ The algorithms implemented are:-
 - Heap Sort : worst case time complexity O(nLog n)
 - Quick Sort : average case time complexity O(nLog n)
 
-** Non Comparision Sorting Algos ** : A non-comparison sort algorithm uses the internal character of the values to be sorted. It can only be applied to some particular cases,
+**Non Comparision Sorting Algos** : A non-comparison sort algorithm uses the internal character of the values to be sorted. It can only be applied to some particular cases,
 and requires particular values. And the best complexity is probably better depending on cases, such as O(n).
 - Counting Sort : worst case time complexity O(n+r) where r stands for range
 - Radix Sort: average case time complexity O(n)
